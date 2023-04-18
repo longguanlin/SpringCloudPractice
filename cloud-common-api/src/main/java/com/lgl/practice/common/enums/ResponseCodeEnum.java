@@ -42,6 +42,7 @@ public enum ResponseCodeEnum {
     }
 
     /**
+     *
      * 通过响应码获取响应信息
      * @param code 响应码
      * @return
